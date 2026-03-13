@@ -61,7 +61,7 @@ export default function Batsman() {
             <img style={{width: "100%"}} src="src/assets/tamim.jpg" alt="Tamim Iqbal"/>
             <h3>Tamim Iqbal</h3>
 
-            <h2>Score: {score} from {balls} balls</h2>
+            <h2>Score: {score} Runs from {balls} balls</h2>
 
             <div style={{display: "flex", justifyContent: "space-around", marginBottom: "10px"}}>
                 <span>Sixes: {sixes}</span>
